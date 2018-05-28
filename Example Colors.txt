@@ -1,0 +1,35 @@
+Since discord uses Highlight.js and Solarized Dark, here are the possible colors
+
+Default: #839496
+```
+text
+```
+Quote: #586e75
+```brainfuck
+text
+```
+Solarized Green: #859900
+```CSS
+text
+```
+Solarized Cyan: #2aa198
+```yaml
+text
+```
+Solarized Blue: #268bd2
+```Elm
+text
+```
+Solarized Yellow: #b58900
+```HTTP
+text
+```
+Solarized Orange: #cb4b16
+```ARM
+text
+```
+Solarized Red: #dc322f
+```excel
+text
+```
+

@@ -1,0 +1,44 @@
+And here is the escaped
+
+Default: #839496
+```
+This is a for statement
+```
+Quote: #586e75
+```bash
+#This is a for statement
+```
+Solarized Green: #859900
+```diff
++ This is a for statement
+```
+```diff
+! This is a for statement
+```
+Solarized Cyan: #2aa198
+```cs
+"This is a for statement"
+```
+```cs
+'This is a for statement'
+```
+Solarized Blue: #268bd2
+```ini
+[This is a for statement]
+```
+```asciidoc
+= This is a for statement =
+```
+Solarized Yellow: #b58900
+```autohotkey
+%This is a for statement%
+```
+Solarized Orange: #cb4b16
+```css
+[This is a for statement]
+```
+Solarized Red: #dc322f
+```diff
+- This is a for statement
+```
+

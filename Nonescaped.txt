@@ -1,0 +1,35 @@
+Non-escaped, aka some words might not be the right color.
+
+Default: #839496
+```
+NoKeyWordsHere
+```
+Quote: #586e75
+```brainfuck
+NoKeyWordsHere
+```
+Solarized Green: #859900
+```CSS
+NoKeyWordsHere
+```
+Solarized Cyan: #2aa198
+```yaml
+NoKeyWordsHere
+```
+Solarized Blue: #268bd2
+```md
+#NoKeyWordsHere
+```
+Solarized Yellow: #b58900
+```fix
+NoKeyWordsHere
+```
+Solarized Orange: #cb4b16
+```glsl
+#NoKeyWordsHere
+```
+Solarized Red: #dc322f
+```diff
+-NoKeyWordsHere
+```
+
