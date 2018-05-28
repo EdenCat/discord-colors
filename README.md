@@ -1,5 +1,5 @@
-# discord-colors
-How to do Colors on Discord with markup
+# Discord-Colors
+
 Since discord uses Highlight.js and the Solarized Dark Theme, there are 8 colors possible to use by code markup.
 
 Paste [this](https://pastebin.com/f3Z0UuDa) for an example of all the colors.
